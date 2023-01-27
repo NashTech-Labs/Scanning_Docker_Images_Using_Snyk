@@ -27,4 +27,5 @@ Enter the choice in which you want to print the result:
 
 You if want to continue type "yes" otherwise "no":
 ![image-scan-3.png](assets/image-scan-3.png)
+
 ---
